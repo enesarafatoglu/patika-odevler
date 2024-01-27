@@ -1,0 +1,58 @@
+.container {
+    text-align: center;
+}
+
+hr {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.card {
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+img {
+    height: 350px;
+}
+
+.card-text {
+    margin-top: 22px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mycontainer {
+    width: 100%;
+    background-color: #343A40;
+    margin-top: 50px;
+}
+
+.navbar-nav a {
+    color: #fff;
+}
+
+.navbar-nav a:hover {
+    color: rgb(141, 141, 145);
+}
+
+.nclr {
+    color: red;
+}
+
+.nclr:hover {
+    color: rgb(172, 53, 53);
+}
