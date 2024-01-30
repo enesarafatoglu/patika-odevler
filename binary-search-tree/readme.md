@@ -10,8 +10,6 @@ Proje 3 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaların
 Verilen dizimiz: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
 
 1. Kök düğümü belirleyelim: Kök 7 olacak.
-
-1. Kök düğümü belirleyelim: Kök 7 olacak.
 2. Sırayla elemanları ekleyelim:
    - 5: 5, 7'nin solunda olduğu için 7'nin sol alt ağacına eklenir.
    - 1: 1, 7 ve 5'in solunda olduğu için 5'in sol alt ağacına eklenir.
